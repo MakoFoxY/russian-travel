@@ -4,7 +4,7 @@
   grid-template-columns: 460px 484px;
   grid-template-rows: 1fr 1fr min-content(584px);
   row-gap: 48px;
-  column-gap: 40px;    
+  column-gap: 40px;
   margin: 0;
   padding: 0;
   padding-bottom: 80px;
@@ -35,7 +35,7 @@
     grid-template-columns: 320px;
     grid-template-rows: 1fr;
     row-gap: 32px;
-    column-gap: 0;  
+    column-gap: 0;
     padding-bottom: 50px;
   }
 }
