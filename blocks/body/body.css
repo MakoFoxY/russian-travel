@@ -1,0 +1,24 @@
+.body {
+  max-width: 1280px;
+  margin: auto;
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+  background-color: #2A2C2F;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+@media screen and (max-width: 1279px) {
+  .body {
+    max-width: 1279px;  
+  }
+}
+@media screen and (max-width: 1023px) {
+  .body {
+    max-width: 1023px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .lead {    
+    max-width: 767px;
+  }
+}
