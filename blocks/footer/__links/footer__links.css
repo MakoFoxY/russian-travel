@@ -9,7 +9,7 @@
   justify-items: start;
   align-items: start;
   align-self: start;
-  justify-content: end;   
+  justify-content: end;
 }
 @media screen and (max-width: 767px) {
   .footer__links {
