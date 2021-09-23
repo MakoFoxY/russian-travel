@@ -3,7 +3,7 @@
   min-height: 740px;
   overflow: hidden;
   background-size: cover;
-  transition-duration: 0.7s;  
+  transition-duration: 0.7s;
   background-color: rgba(42, 44, 47, 0.3);
 }
 .cover__overlay:hover {
