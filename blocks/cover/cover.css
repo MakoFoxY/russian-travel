@@ -1,7 +1,9 @@
 .cover {
+  position: relative;
   max-width: 1184px;
   min-height: 740px;
   background-image: url('../../images/cover-trains.jpg');
+  background-position: center;
   margin: 0 auto;
   background-size: cover;
   padding: 0;
@@ -24,4 +26,3 @@
     min-height: 200px;
   }
 }
-  

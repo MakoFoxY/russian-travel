@@ -8,7 +8,9 @@
   line-height: 122%;
   text-align: center;
   text-decoration: none;
-  color: #FFFFFF;     
+  color: #FFFFFF;
+  z-index: 2;
+  opacity: 1;
 }
 @media screen and (max-width: 767px) {
   .cover__subtitle {

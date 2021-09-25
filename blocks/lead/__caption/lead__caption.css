@@ -20,10 +20,14 @@
 @media screen and (max-width: 1023px) {
   .lead__caption {
     max-width: 768px;
+    padding: 0;
+    padding-left: 24px;
   }
 }
 @media screen and (max-width: 767px) {
-  .lead__caption {    
+  .lead__caption {
     max-width: 320px;
+    padding: 0;
+    padding-left: 16px;
   }
 }

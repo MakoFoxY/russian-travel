@@ -15,17 +15,14 @@
 }@media screen and (max-width: 1023px) {
   .intro {
     max-width: 768px;
-    margin: 0 auto;
-    padding: 0;
     padding-top: 88px;
     padding-bottom: 88px;
+    padding-left: 24px;
   }
 }
 @media screen and (max-width: 767px) {
   .intro {
     max-width: 288px;
-    margin: 0 auto;
-    padding: 0;
     padding-top: 64px;
     padding-bottom: 64px;
   }
